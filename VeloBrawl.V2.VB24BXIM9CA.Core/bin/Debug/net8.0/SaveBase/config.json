@@ -1,0 +1,9 @@
+{
+  "logSensitive": 100,
+  "minutesToGC": 1,
+  "maxAllConnectionsOnTcpGateway": 100000,
+  "closeActiveSessionsIfTcpGatewayIsClosed": true,
+  "constantValueForGenerateTcpPorts": 9000,
+  "numberOfGenerateTcpPorts": 20,
+  "rabbitMqHost": "localhost"
+}

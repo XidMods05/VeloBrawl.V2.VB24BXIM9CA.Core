@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <EnableUnsafeBinaryFormatterSerialization>true</EnableUnsafeBinaryFormatterSerialization>
+        <NoWarn>$(NoWarn);SYSLIB0011</NoWarn>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="OxyPlot.Core" Version="2014.1.546"/>
+        <PackageReference Include="ScottPlot" Version="5.0.36"/>
+        <PackageReference Include="System.Drawing.Common" Version="8.0.7"/>
+        <ProjectReference Include="..\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj"/>
+    </ItemGroup>
+</Project>

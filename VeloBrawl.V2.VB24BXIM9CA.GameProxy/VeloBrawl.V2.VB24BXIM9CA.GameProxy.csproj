@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer.csproj"/>
+        <ProjectReference Include="..\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer.csproj"/>
+        <ProjectReference Include="..\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj"/>
+        <ProjectReference Include="..\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy.csproj"/>
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,562 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer\\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer\\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer\\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "OxyPlot.Core": {
+              "target": "Package",
+              "version": "[2014.1.546, )"
+            },
+            "ScottPlot": {
+              "target": "Package",
+              "version": "[5.0.36, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.Auxiliary",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Veltonsoft.BrawlStars.Velofauna": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Core.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.Core",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Core.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer\\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer\\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.GameChannel\\VeloBrawl.V2.VB24BXIM9CA.GameChannel.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.GameChannel\\VeloBrawl.V2.VB24BXIM9CA.GameChannel.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.GameProxy\\VeloBrawl.V2.VB24BXIM9CA.GameProxy.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.GameProxy\\VeloBrawl.V2.VB24BXIM9CA.GameProxy.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqFirewall\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqFirewall.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqFirewall\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqFirewall.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.GameChannel\\VeloBrawl.V2.VB24BXIM9CA.GameChannel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.GameChannel\\VeloBrawl.V2.VB24BXIM9CA.GameChannel.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.GameChannel",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.GameChannel\\VeloBrawl.V2.VB24BXIM9CA.GameChannel.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.GameChannel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.GameProxy\\VeloBrawl.V2.VB24BXIM9CA.GameProxy.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.GameProxy\\VeloBrawl.V2.VB24BXIM9CA.GameProxy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.GameProxy\\VeloBrawl.V2.VB24BXIM9CA.GameProxy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.GameProxy\\VeloBrawl.V2.VB24BXIM9CA.GameProxy.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.GameProxy",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.GameProxy\\VeloBrawl.V2.VB24BXIM9CA.GameProxy.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.GameProxy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer\\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer\\VeloBrawl.V2.VB24BXIM9CA.AnalyticLayer.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqFirewall\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqFirewall.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqFirewall\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqFirewall.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.RabbitMqFirewall",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqFirewall\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqFirewall.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqFirewall\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.GameProxy\\VeloBrawl.V2.VB24BXIM9CA.GameProxy.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.GameProxy\\VeloBrawl.V2.VB24BXIM9CA.GameProxy.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy.csproj",
+        "projectName": "VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy",
+        "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy.csproj",
+        "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.RabbitMqProxy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer\\VeloBrawl.V2.VB24BXIM9CA.AbstractionLayer.csproj"
+              },
+              "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj": {
+                "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\VeloBrawl.V2.VB24BXIM9CA.Core\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary\\VeloBrawl.V2.VB24BXIM9CA.Auxiliary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

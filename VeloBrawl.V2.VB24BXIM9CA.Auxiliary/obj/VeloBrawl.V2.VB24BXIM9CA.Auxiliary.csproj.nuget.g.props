@@ -1,0 +1,901 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Назар Батчаев\.nuget\packages\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.10.1</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\Назар Батчаев\.nuget\packages\" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\animations.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\animations.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\animations.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\animations.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\billing_packages.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\billing_packages.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\billing_packages.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\billing_packages.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\client_globals.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\client_globals.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\client_globals.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\client_globals.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\color_gradients.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\color_gradients.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\color_gradients.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\color_gradients.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\credits.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\credits.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\credits.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\credits.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\effects.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\effects.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\effects.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\effects.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\faces.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\faces.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\faces.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\faces.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\health_bars.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\health_bars.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\health_bars.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\health_bars.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\hints.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\hints.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\hints.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\hints.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\links.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\links.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\links.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\links.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\local_notifications.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\local_notifications.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\local_notifications.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\local_notifications.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\music.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\music.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\music.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\music.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\particle_emitters.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\particle_emitters.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\particle_emitters.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\particle_emitters.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\particle_emitters.json" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\particle_emitters.json')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\particle_emitters.json</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\particle_emitters.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\shop_items.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\shop_items.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\shop_items.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\shop_items.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\sounds.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\sounds.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\sounds.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\sounds.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\tutorial.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_client\tutorial.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_client\tutorial.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_client\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_client\tutorial.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\accessories.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\accessories.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\accessories.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\accessories.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\alliance_badges.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\alliance_badges.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\alliance_badges.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\alliance_badges.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\alliance_roles.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\alliance_roles.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\alliance_roles.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\alliance_roles.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\area_effects.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\area_effects.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\area_effects.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\area_effects.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\bosses.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\bosses.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\bosses.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\bosses.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\campaign.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\campaign.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\campaign.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\campaign.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\cards.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\cards.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\cards.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\cards.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\carryables.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\carryables.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\carryables.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\carryables.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\challenges.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\challenges.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\challenges.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\challenges.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\characters.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\characters.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\characters.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\characters.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\emote_bundles.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\emote_bundles.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\emote_bundles.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\emote_bundles.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\emotes.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\emotes.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\emotes.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\emotes.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\game_mode_variations.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\game_mode_variations.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\game_mode_variations.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\game_mode_variations.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\globals.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\globals.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\globals.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\globals.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\items.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\items.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\items.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\items.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\locales.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\locales.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\locales.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\locales.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\location_themes.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\location_themes.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\location_themes.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\location_themes.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\locations.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\locations.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\locations.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\locations.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\map_templates.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\map_templates.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\map_templates.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\map_templates.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\maps.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\maps.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\maps.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\maps.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\messages.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\messages.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\messages.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\messages.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\milestones.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\milestones.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\milestones.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\milestones.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\name_colors.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\name_colors.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\name_colors.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\name_colors.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\pins.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\pins.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\pins.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\pins.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\player_map_environments.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\player_map_environments.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\player_map_environments.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\player_map_environments.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\player_thumbnails.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\player_thumbnails.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\player_thumbnails.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\player_thumbnails.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\projectiles.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\projectiles.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\projectiles.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\projectiles.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\ranked_locations.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\ranked_locations.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\ranked_locations.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\ranked_locations.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\ranked_ranks.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\ranked_ranks.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\ranked_ranks.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\ranked_ranks.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\regions.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\regions.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\regions.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\regions.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\resources.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\resources.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\resources.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\resources.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\seasonal_skin_sections.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\seasonal_skin_sections.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\seasonal_skin_sections.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\seasonal_skin_sections.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\skills.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\skills.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\skills.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\skills.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\skin_campaigns.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\skin_campaigns.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\skin_campaigns.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\skin_campaigns.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\skin_confs.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\skin_confs.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\skin_confs.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\skin_confs.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\skins.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\skins.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\skins.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\skins.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\skinsrarity.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\skinsrarity.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\skinsrarity.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\skinsrarity.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\themes.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\themes.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\themes.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\themes.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\tiles.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\csv_logic\tiles.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\csv_logic\tiles.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\csv_logic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\csv_logic\tiles.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\fingerprint.json" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\fingerprint.json')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\fingerprint.json</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\fingerprint.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\ar.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\ar.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\ar.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\ar.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\cn.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\cn.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\cn.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\cn.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\cnt.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\cnt.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\cnt.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\cnt.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\de.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\de.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\de.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\de.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\es.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\es.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\es.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\es.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\fi.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\fi.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\fi.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\fi.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\fr.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\fr.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\fr.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\fr.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\he.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\he.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\he.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\he.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\id.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\id.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\id.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\id.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\it.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\it.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\it.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\it.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\jp.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\jp.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\jp.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\jp.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\kr.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\kr.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\kr.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\kr.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\ms.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\ms.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\ms.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\ms.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\nl.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\nl.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\nl.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\nl.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\pl.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\pl.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\pl.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\pl.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\pt.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\pt.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\pt.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\pt.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\ru.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\ru.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\ru.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\ru.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\texts.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\texts.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\texts.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\texts.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\texts_patch.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\texts_patch.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\texts_patch.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\texts_patch.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\th.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\th.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\th.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\th.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\tr.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\tr.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\tr.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\tr.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\vi.csv" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\BS_assets\v36\localization\vi.csv')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\BS_assets\v36\localization\vi.csv</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\BS_assets\v36\localization\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\BS_assets\v36\localization\vi.csv</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\profanity.txt" Condition="Exists('$(NuGetPackageRoot)veltonsoft.brawlstars.velofauna\1.0.5\contentFiles\any\net8.0\VelofaunaInternal\profanity.txt')">
+      <NuGetPackageId>Veltonsoft.BrawlStars.Velofauna</NuGetPackageId>
+      <NuGetPackageVersion>1.0.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>VelofaunaInternal\profanity.txt</TargetPath>
+      <DestinationSubDirectory>VelofaunaInternal\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>VelofaunaInternal\profanity.txt</Link>
+    </None>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">C:\Users\Назар Батчаев\.nuget\packages\awssdk.core\3.7.100.14</PkgAWSSDK_Core>
+    <PkgAWSSDK_SecurityToken Condition=" '$(PkgAWSSDK_SecurityToken)' == '' ">C:\Users\Назар Батчаев\.nuget\packages\awssdk.securitytoken\3.7.100.14</PkgAWSSDK_SecurityToken>
+  </PropertyGroup>
+</Project>
